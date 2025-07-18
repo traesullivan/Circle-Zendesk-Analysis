@@ -61,7 +61,7 @@ Leveraged Matplotlib/Seaborn (Python) and Excel charting to visualize time serie
 # Why This Matters
 This project shows not just the ability to analyze support data, but also to:
 
--Build robust monitoring systems in less than a day
+-Build robust monitoring systems based on available data
 
 -Automate performance tracking and forecasting
 
