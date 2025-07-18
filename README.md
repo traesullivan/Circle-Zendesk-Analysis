@@ -37,7 +37,7 @@ To simulate a live CX operations workflow that monitors daily support activity, 
 Leveraged Matplotlib/Seaborn (Python) and Excel charting to visualize time series trends, SLA risk bands, satisfaction drivers, and resolution distribution curves.
 
 
-# 📊 Insights
+# Insights
 -Social Media tickets consistently underperformed, with over 30% breaching SLA and CSAT trailing by 0.6 points vs email/web.
 
 -CSAT drops sharply when resolution time exceeds 24 hours, especially for high-priority tickets, confirming SLA urgency as a CX lever.
