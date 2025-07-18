@@ -1,5 +1,8 @@
 # Support Ops Analysis & Dashboard
-I’m applying for the Customer Experience Operations Manager position at Circle. To demonstrate alignment and initiative, I created a support operations proof of concept that mirrors Circle’s Zendesk workflows and performance objectives.
+I’m applying for the Customer Experience Operations Manager position at Circle. To demonstrate alignment and initiative, I created a support operations proof of concept that mirrors Circle’s Zendesk workflows and performance objectives. Below is a visual overview of the dashboard built for this project. It highlights key customer experience metrics, including ticket volume, resolution time, SLA breach rate, CSAT, channel performance, and escalation trends.
+
+<img width="990" height="764" alt="image" src="https://github.com/user-attachments/assets/f154f493-2401-44a7-9400-f72c56a66d79" />
+
 
 # Project Overview: 24‑Hour Support Ticket Analysis & Alert System
 
