@@ -4,7 +4,7 @@ I’m applying for the Customer Experience Operations Manager position at Circle
 <img width="990" height="764" alt="image" src="https://github.com/user-attachments/assets/f154f493-2401-44a7-9400-f72c56a66d79" />
 
 
-# Project Overview: 24‑Hour Support Ticket Analysis & Alert System
+# Project Overview: Support Ticket Analysis & Alert System
 
 This project demonstrates how a support operations manager can quickly surface insights, automate monitoring, and drive CX improvements using data. Built in under 24 hours, this proof of concept replicates a real Zendesk environment using mock data across multiple support channels. It combines Python automation, Excel reporting, and predictive modeling to proactively manage ticket load, SLA performance, and customer satisfaction.
 
