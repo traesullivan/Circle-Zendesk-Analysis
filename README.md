@@ -1,5 +1,5 @@
 # Support Ops Analysis & Dashboard
-I’m applying for the Customer Experience Operations Manager position at Circle. To demonstrate alignment and initiative, I created a support operations proof of concept that mirrors Circle’s Zendesk workflows and performance objectives. Below is a visual overview of the dashboard built for this project. It highlights key customer experience metrics, including ticket volume, resolution time, SLA breach rate, CSAT, channel performance, and escalation trends.
+I created a support operations proof of concept that mirrors Zendesk workflows and performance objectives. Below is a visual overview of the dashboard built for this project. It highlights key customer experience metrics, including ticket volume, resolution time, SLA breach rate, CSAT, channel performance, and escalation trends.
 
 <img width="990" height="764" alt="image" src="https://github.com/user-attachments/assets/f154f493-2401-44a7-9400-f72c56a66d79" />
 
@@ -9,7 +9,7 @@ I’m applying for the Customer Experience Operations Manager position at Circle
 This project demonstrates how a support operations manager can quickly surface insights, automate monitoring, and drive CX improvements using data. Built in under 24 hours, this proof of concept replicates a real Zendesk environment using mock data across multiple support channels. It combines Python automation, Excel reporting, and predictive modeling to proactively manage ticket load, SLA performance, and customer satisfaction.
 
 # Objective
-To simulate a live CX operations workflow that monitors daily support activity, identifies performance risks, and provides decision-ready insights modeled around the KPIs and tools common in modern support environments like Circle’s.
+To simulate a live CX operations workflow that monitors daily support activity, identifies performance risks, and provides decision-ready insights modeled around the KPIs and tools common in modern support environments.
 
 # Methods & Tools
 **1. Python (Jupyter Notebook)**
